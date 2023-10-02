@@ -1,56 +1,90 @@
 # Abhishek Thapliyal
 
-8 years of experience as an iOS Developer.
+8+ years of experience as an iOS Developer.
 Expertise in Swift and familiar with declarative/Hybrid frameworks like SwiftUI, React-Native and Flutter
 
-**Social:** [LinkedIn](https://www.linkedin.com/in/abhishek-t-6887a08a), [Github](https://github.com/Abhishek9634), [Twitter](https://twitter.com/abhishek9A) and [Instagram](https://www.instagram.com/abhishek.thapliyal01)
+## Blogs
+
+**Medium:** [Profile](https://medium.com/@abhishekthapliyal)
+
+## Connect with me
+
+**Email:** abhishekthapliyal7579@gmail.com
+
+**Contact No. :** +91-7409097883
+
+**Social:** [LinkedIn](https://www.linkedin.com/in/abhishek-t-6887a08a), [Github](https://github.com/Abhishek9634), [Twitter](https://twitter.com/abhishek9A), [Medium](https://medium.com/@abhishekthapliyal), [Stackoverflow](https://stackoverflow.com/users/5589073/abhishek-thapliyal) and [Instagram](https://www.instagram.com/abhishek.thapliyal01)
+
+## Technical Stack
 
 **Languages:** Swift, JS, Dart
 
 **Frameworks:** Alamofire, Swifty JSON, ReactiveSwift, Firebase, Twilio, MQTT, GraphQL,
 React Native, Flutter, SPM
 
-**Tools:** XCode, VS Code, Sketch, Figma, SourceTree, JIRA, Linear, PostMan, Insomania,
+**Tools:** XCode, VS Code, Sketch, Figma, SourceTree, JIRA, Linear, PostMan, Insomania
 
 **CI/CD:** Fastlane, Github Actions
 
 ## Projects Highlights:
 
-1.  **Meow Wolf:** <i>Jul' 23 - Till Now</i>
+1.  **MetaMUI Wallet and SSID:** <i>Dec' 23 - Mar' 24</i>
 
-    **Technical Stack:** Flutter, Dart, Swift
+    **Technical Stack:** iOS, SwiftUI, Swift
+
+    **Description:** 
+    
+    MetaMUI Wallet first asset wallet with identity-based transfers, connecting you to the MetaMUI Blockchain mainnet network.
+    
+    MetaMUI SSID is an identity application for MetaMUI Identity Blockchain. MetaMUI is a hybrid blockchain of identity-based token blockchain. Identity part of the MetaMUI is an implementation of Self Sovereign Identity. Through this App, user can manage user’s private information in the form of Verifiable Credentials. 
+
+    **Responsibility:** End-to-end app development on Substrate and Ethereum blockhain.
+
+    [MetMUI Wallet](https://apps.apple.com/us/app/metamui-wallet/id1546698261)
+
+    [MetMUI SSID](https://apps.apple.com/in/app/metamui-ssid/id1600420909)
+    <br/>
+    <br/>
+
+2.  **Meow Wolf:** <i>Jul' 23 - Oct' 23</i>
+
+    **Technical Stack:** Flutter, Dart, JS
 
     **Description:** Meow Wolf opens portals of possibility. They re-define the paradigm of art and storytelling to make a positive difference in the world. They have numerous full-time artists on staff, working in a huge range of media, including sculpture, painting, fabrication, digital art, writing, film, and many more. Flutter Application gives a virtual platform as per there on location with crazy out-of-the-box effects.
 
     **Responsibility:** Developed and maintained shop, exhibitions and ticketing applets.
+
+    [Google Play Store Link](https://play.google.com/store/apps/details?id=com.meowwolf.androidapp&hl=en&gl=US) and [App Store Link](https://apps.apple.com/us/app/meow-wolf/id6446853169)
     <br/>
     <br/>
 
-2.  **Nations Benefits:** <i>Aug' 22 - Jun' 23</i>
+3.  **Nations Benefits:** <i>Aug' 22 - Jun' 23</i>
 
     **Technical Stack:** iOS, SwiftUI, Swift
 
-    **Description:** Meow Wolf opens portals of possibility.
+    **Description:** Nations Benefits are a leading provider of supplemental benefits, flex cards, and member engagement solutions that partners with managed care organizations to provide innovative healthcare solutions designed to drive growth, improve outcomes, reduce costs, and delight members.
 
-    Nations Benefits are a leading provider of supplemental benefits, flex cards, and member engagement solutions that partners with managed care organizations to provide innovative healthcare solutions designed to drive growth, improve outcomes, reduce costs, and delight members.
-
-    **Responsibility:** Collaborated in native SwiftUI iOS application development. Maintained CI/CD pipleline using fastlane and Github Actions.
+    **Responsibility:** Collaborated in native SwiftUI iOS application development. Maintained CI/CD pipeline using fastlane and Github Actions.
 
     [App Store Link](https://apps.apple.com/in/app/benefits-pro/id6450181308)
     <br/>
     <br/>
 
-3.  **SIDEARM Sports:** <i>Apr' 22 - Aug' 22</i>
+4.  **SIDEARM Sports:** <i>Apr' 22 - Aug' 22</i>
 
-    **Technical Stack:** iOS, tvOS, SwiftUI, Swift
+    **Technical Stack:** iOS, tvOS, SwiftUI, Swift, KMP
 
     **Description:** SIDEARM provides the technology platform that powers the official websites, mobile apps, statistical integration, live audio and video streaming, and e-commerce platforms of collegiate athletic partners across the nation.
 
     **Responsibility:** Collaborated in native iOS application via KMP. Standalone developed its tvOS application.
+    
+    [App Store Link](https://apps.apple.com/us/app/michigan-athletics/id1564967717?platform=iphone)
+
+    [tvOS App Store Link](https://apps.apple.com/ro/app/texastech/id1441460269)
     <br/>
     <br/>
 
-4.  **Katapult:** <i>Dec' 21 - Mar' 22</i>
+5.  **Katapult:** <i>Dec' 21 - Mar' 22</i>
 
     **Technical Stack:** React Native, JS
 
@@ -60,7 +94,7 @@ React Native, Flutter, SPM
     <br/>
     <br/>
 
-5.  **RRI: RPM Lite:** <i>May' 21 - Nov' 21</i>
+6.  **RRI: RPM Lite:** <i>May' 21 - Nov' 21</i>
 
     **Technical Stack:** iOS, UIKit, ReactiveSwift, Swift
 
@@ -72,7 +106,7 @@ React Native, Flutter, SPM
     <br/>
     <br/>
 
-6.  **Duntep:** <i>Aug' 20 - Sep' 20</i>
+7.  **Duntep:** <i>Aug' 20 - Sep' 20</i>
 
     **Technical Stack:** Flutter, Dart
 
@@ -84,7 +118,7 @@ React Native, Flutter, SPM
     <br/>
     <br/>
 
-7.  **Newlywd (MVP):** <i>May' 20 - Aug' 20</i>
+8.  **Newlywd (MVP):** <i>May' 20 - Aug' 20</i>
 
     **Technical Stack:** iOS, UIKit, Swift
 
@@ -96,7 +130,7 @@ React Native, Flutter, SPM
     <br/>
     <br/>
 
-8.  **TabCare:** <i>Jul' 18 - Nov' 18</i>
+9.  **TabCare:** <i>Jul' 18 - Nov' 18</i>
 
     **Technical Stack:** iOS, watchOS, UIKit, Swift
 
